@@ -1,0 +1,22 @@
+[
+   {
+      "id": 1,
+      "timestamp": "2021-05-11T23:21:39.080Z",
+      "name": "Zapatillas Nike",
+      "description": "Nike Air Max 90 black",
+      "code": 101010,
+      "thumbnail": "https://images.app.goo.gl/VErq8n1hUXYt8bQDA",
+      "price": 15000,
+      "stock": 15
+   },
+   {
+      "id": 2,
+      "timestamp": "2021-05-11T23:21:39.080Z",
+      "name": "Zapatillas Puma",
+      "description": "Puma RSX 3 Puzzle",
+      "code": 303030,
+      "thumbnail": "https://images.app.goo.gl/abaRfzG6dv6Fx5416",
+      "price": 12000,
+      "stock": 15
+   }
+]
